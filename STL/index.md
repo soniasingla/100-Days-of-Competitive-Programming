@@ -22,3 +22,12 @@ As in normal parameters, we can specify the default arguments.
 
 Function Overloading : multiple functions do similar operations
 Templates : multiple functions do identical operations
+
+***STL ??**
+set of C++ templates to provide common programming data structures and functions.
+
+**Components**
+1. Algorithms
+2. Containers
+3. Functions
+4. Iterators
